@@ -26,7 +26,8 @@
   
   
 - vl_aacmd.exe:
-  .pyをexeにしたやつ
+  .pyをexeにしたやつ githubだと重くて上げれなかったから自分のサイトに上げとくね
+  https://drive.byoshin.net/vl_aacmd/vl_aacmd.exe
   使用する際はconfigを同じ階層に入れてね
   これでパソコン壊れたりBANされたりしても全部自己責任だよ
 
